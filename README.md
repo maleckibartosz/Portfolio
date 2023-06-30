@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello, my name is Bartosz Małecki, but you can call me Bartek. <br>I am master of law and I graduted from The John Paul II Catholic University of Lublin, Poland. <br>
+Hello, my name is Bartosz Małecki, but you can call me Bartek. <br>I am master of law and I graduated from The John Paul II Catholic University of Lublin, Poland. <br>
 
 I have always been interested in technology, although my educational path has steered me towards becoming a lawyer. Nevertheless, I have been educating myself in software testing for some time and
 I am currently at the stage of learning syllabus ISTQB FL. <br>
