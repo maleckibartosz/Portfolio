@@ -10,6 +10,9 @@ This document allows me to introduce myself and show you (potential employer), h
 
 If you have any questions, feel free to contact me via email: bartosz.malecki@icloud.com.
 
+Location:
+* Warsaw
+
 ## Tools
 
  * Jira - issue tracking and project management tool for developers.
