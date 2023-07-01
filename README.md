@@ -25,8 +25,6 @@ Location:
  * JavaScript (basic knowledge)
  * SQL (basic knowledge)
 
-## Certificates
-
 ## Courses
 
  * Wprowadzenie do testowania oprogramowania, ZPSB (navoica.pl)
@@ -49,9 +47,4 @@ Location:
  * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
  * [pwicherski.gitbook.io](https:///pwicherski.gitbook.io)
 
-## My test cases
-
-## My projects
-
-Blank sections are important (mostly for me), because I would like to follow my development. <br>
 P.S I'm glad that you reach the end of my <b><a href="https://github.com/maleckibartosz/Portfolio">portfolio</a></b>. I hope, you will find me an interesting person and we may start to cooperate. <br> Wish you a great day!
