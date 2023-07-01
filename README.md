@@ -31,7 +31,6 @@ Location:
 
  * Wprowadzenie do testowania oprogramowania, ZPSB (navoica.pl)
  * Podstawy manualnego testowania oprogramowania, Udemy  
- * Postman - testowanie REST API, Udemy (in progress)
   
 ## Books
 
