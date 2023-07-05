@@ -1,5 +1,10 @@
 # Portfolio
 
+## Education
+
+ * The John Paul II Catholic University of Lublin
+ * Master of Law
+
 ## Tools
 
  * Jira - issue tracking and project management tool for developers.
