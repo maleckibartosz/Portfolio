@@ -2,7 +2,7 @@
 
 ## Education
 
- * The John Paul II Catholic University of Lublin
+The John Paul II Catholic University of Lublin
  * Master of Law
 
 ## Tools
@@ -19,12 +19,20 @@
 
 ## Courses
 
- * Wprowadzenie do testowania oprogramowania, ZPSB (navoica.pl)
- * Podstawy manualnego testowania oprogramowania, Udemy  
-  
+  #### University
+   * Wprowadzenie do testowania oprogramowania, ZPSB (navoica.pl)
+   
+  #### Udemy
+   * Podstawy manualnego testowania Oprogramowania, Tester Oprogramowania
+   * Postman - testowanie REST API, Tester Oprogramowania (in progress)
+   * Wprowadzenie do Git i Github, Samuraj Programowania (in progress)
+   
+  #### YouTube
+   * Kurs SQL, Kamil Brzeziński (Jak nauczyć się programować)
+
 ## Books
 
- * Radosław Smilgin - Zawód Tester. Od decyzji do zdobycia doświadczenia.
+ * Radosław Smilgin, <i>Zawód Tester. Od decyzji do zdobycia doświadczenia</i>.
 
 ## Facebook Groups
 
