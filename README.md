@@ -25,7 +25,7 @@ The John Paul II Catholic University of Lublin
   #### Udemy
    * Podstawy manualnego testowania Oprogramowania, Tester Oprogramowania
    * Postman - testowanie REST API, Tester Oprogramowania (in progress)
-   * Wprowadzenie do Git i Github, Samuraj Programowania (in progress)
+   * Wprowadzenie do Git i GitHub, Samuraj Programowania (in progress)
    
   #### YouTube
    * Kurs SQL, Kamil Brzeziński (Jak nauczyć się programować)
