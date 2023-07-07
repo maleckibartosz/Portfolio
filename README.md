@@ -19,7 +19,7 @@ The John Paul II Catholic University of Lublin
 
 ## Courses
 
-  #### University
+ 
    * Wprowadzenie do testowania oprogramowania, ZPSB (navoica.pl)
    
   #### Udemy
