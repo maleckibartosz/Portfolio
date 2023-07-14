@@ -29,6 +29,7 @@ The John Paul II Catholic University of Lublin
    
   #### YouTube
    * Kurs SQL, Kamil Brzeziński (Jak nauczyć się programować)
+   * Jira Tutorial for Beginners: Jira Project Management (Simon Sez IT) (in progress)
 
 ## Books
 
