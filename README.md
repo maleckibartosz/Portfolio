@@ -8,6 +8,7 @@ The John Paul II Catholic University of Lublin
 ## Tools
 
  * Jira - issue tracking and project management tool for developers.
+ * TestRail
  * DevTools
 
 ## Tech skills
@@ -16,10 +17,10 @@ The John Paul II Catholic University of Lublin
  * CSS
  * JavaScript (basic knowledge)
  * SQL (basic knowledge)
+ * Creating test cases
 
 ## Courses
 
- 
    * Wprowadzenie do testowania oprogramowania, ZPSB (navoica.pl)
    
   #### Udemy
