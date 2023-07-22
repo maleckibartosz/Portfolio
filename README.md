@@ -2,8 +2,7 @@
 
 ## Education
 
-The John Paul II Catholic University of Lublin
- * Master of Law
+The John Paul II Catholic University of Lublin, Master of Law
 
 ## Tools
 
@@ -30,7 +29,7 @@ The John Paul II Catholic University of Lublin
    
   #### YouTube
    * Kurs SQL, Kamil Brzeziński (Jak nauczyć się programować)
-   * Jira Tutorial for Beginners: Jira Project Management (Simon Sez IT) (in progress)
+   * Jira Tutorial for Beginners: Jira Project Management (Simon Sez IT) 
 
 ## Books
 
@@ -48,5 +47,3 @@ The John Paul II Catholic University of Lublin
  * [cherry-it.pl](http://cherry-it.pl/)
  * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
  * [pwicherski.gitbook.io](https:///pwicherski.gitbook.io)
-
-P.S I'm glad that you reach the end of my <b><a href="https://github.com/maleckibartosz/Portfolio">portfolio</a></b>. I hope, you will find me an interesting person and we may start to cooperate. <br> Wish you a great day!
