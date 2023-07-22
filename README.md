@@ -15,7 +15,7 @@ The John Paul II Catholic University of Lublin, Master of Law
  * HTML
  * CSS
  * JavaScript (basic knowledge)
- * SQL (basic knowledge)
+ * SQL [MySQL, MySQL Workbench) (basic knowledge)
  * Creating test cases
 
 ## Courses
