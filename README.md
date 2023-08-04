@@ -9,6 +9,7 @@ The John Paul II Catholic University of Lublin, Master of Law
  * Jira - issue tracking and project management tool for developers.
  * TestRail
  * DevTools
+ * Qase, TestRail - test case management tools.
 
 ## Tech skills
 
