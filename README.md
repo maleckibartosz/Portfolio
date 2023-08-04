@@ -1,8 +1,29 @@
 # Portfolio
 
+Welcome to my GitHub repo!<br>
+
 ## Education
 
+### Studies
 The John Paul II Catholic University of Lublin, Master of Law
+
+### Courses
+
+ > #### Udemy
+   * Podstawy manualnego testowania oprogramowania [Tester Oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/) <br>
+   * Postman - testowanie REST API [Tester Oprogramowania](https://www.udemy.com/course/kurs-postman/) (in progress)<br>
+   * Wprowadzenie do Git i GitHub [Samuraj Programowania](https://www.udemy.com/course/kurs-git-i-github-od-podstaw/) (in progress)
+   
+ > #### YouTube
+   * Kurs SQL [Jak nauczyć się programować](https://www.youtube.com/watch?v=15q9R1lTqvI&list=PLp9WLfHXxbcdSsGcXPmTytVUhsu0H26f5)<br>
+   * Jira Tutorial for Beginners: Jira Project Management [Simon Sez IT](https://www.youtube.com/watch?v=nHuhojfjeUY)
+
+ > #### Other
+   * Wprowadzenie do testowania oprogramowania [navoica.pl](https://navoica.pl/courses/course-v1:ZPSB+WTO1+2022_WTO1/about)
+
+## Projects
+1. [Guru99 Bank Application](https://github.com/maleckibartosz/TestingProjects/tree/main/Guru99%20Bank%20App)
+
 
 ## Tools
 
@@ -18,19 +39,7 @@ The John Paul II Catholic University of Lublin, Master of Law
  * JavaScript (basic knowledge)
  * SQL [MySQL, MySQL Workbench] (basic knowledge)
  * Creating test cases
-
-## Courses
-
-   * Wprowadzenie do testowania oprogramowania, ZPSB (navoica.pl)
-   
-  #### Udemy
-   * Podstawy manualnego testowania Oprogramowania, Tester Oprogramowania
-   * Postman - testowanie REST API, Tester Oprogramowania (in progress)
-   * Wprowadzenie do Git i GitHub, Samuraj Programowania (in progress)
-   
-  #### YouTube
-   * Kurs SQL, Kamil Brzeziński (Jak nauczyć się programować)
-   * Jira Tutorial for Beginners: Jira Project Management (Simon Sez IT) 
+ * Creating bug reports
 
 ## Books
 
